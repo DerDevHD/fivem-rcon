@@ -15,7 +15,7 @@ Thank you FiveM.
 # Usage
 Example case: A small implemenation for a command-line RCON application.
 ```js
-import Rcon from '../src/index.js';
+import Rcon from 'fivem-rcon';
 import process from 'process'
 
 // first: host, second: port, third: password
